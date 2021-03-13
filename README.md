@@ -1,4 +1,4 @@
-### Hi there 👋 I'm kldd0
+### Hi there 👋 I'm k!dd0
 
 - 🔭 I’m currently working on multiple self-projects
 - 🌱 I’m currently learning ML, olympiad programming, CS, Python/C++
