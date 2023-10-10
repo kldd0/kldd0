@@ -1,4 +1,4 @@
-### Hi there 👋 I'm k!dd0
+### Hi there 👋 I'm Stepan
 
 - 🔭 I’m currently working on self-projects
 - 🌱 I’m currently learning Go/C++
